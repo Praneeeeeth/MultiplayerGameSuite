@@ -1,9 +1,9 @@
-🎮 Multiplayer Game Suite
+# 🎮 Multiplayer Game Suite
 
 A Java-based multiplayer game suite built using socket programming. The system includes a central game server and multiple clients that can connect to play games in real time.
 
 
-🚀 Features
+##  🚀 Features
 
 - ✅ Multiplayer support over a local or remote network
 - ✅ Real-time interaction between players
@@ -12,14 +12,14 @@ A Java-based multiplayer game suite built using socket programming. The system i
 - ✅ Lightweight and easy to run
 
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 
 - Java (Core + Sockets)
 - Java Threads
 - Object-Oriented Programming (OOP)
 
 
-📁 Project Structure
+## 📁 Project Structure
 
 MultiplayerGameSuite/
 ├── GameClient.java       # Client-side code
@@ -27,7 +27,7 @@ MultiplayerGameSuite/
 ├── GameLogic.java        # Shared game logic between server and clients
 
 
-🧪 How to Run:
+## 🧪 How to Run:
 
 1. Compile all `.java` files:
 
@@ -52,20 +52,20 @@ MultiplayerGameSuite/
 ⚠️ By default, it uses `localhost`. To run over LAN, update the IP in `GameClient.java`.
 
 
-🎯 Example Use Cases
+## 🎯 Example Use Cases
 
 - Simple multiplayer games like Rock-Paper-Scissors
 - Turn-based card or logic games
 - Teaching socket communication in Java
 
 
-👤 Author
+## 👤 Author
 
 - Praneeth N R
    M.Sc. Data Science, Coimbatore Institute of Technology
 
 
-📬 Contact
+## 📬 Contact
 
 For any queries, feel free to reach out:
 - 📧 Email: praneethnr0505@gmail.com
